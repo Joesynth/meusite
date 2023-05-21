@@ -1,0 +1,25 @@
+header {
+	background-color: lightcyan;
+	color: darkcyan;
+	text-shadow: 3px 3px 4px grey;
+}
+nav ul {
+	display: flex; /*transformar a div trabalhar em modo flex fazendo os itens ficarem um do lado do outroo */
+	justify-content: center;
+}
+nav ul li {
+	list-style-type: none;
+	margin-right: 10px;
+	text-shadow: 3px 3px 4px grey;
+	text-transform: uppercase;
+}
+main {
+	background-color: darkkhaki;
+	color: darkred;
+	text-shadow: 3px 3px 4px grey;
+}
+footer {
+	background-color: darksalmon;
+	color: grey;
+	text-shadow: 3px 3px 4px grey;
+}
